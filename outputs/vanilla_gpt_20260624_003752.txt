@@ -1,0 +1,23 @@
+=== PROMPT ===
+
+
+Reorder point with daily demand=100 and lead time=5 days.
+
+
+
+
+=== LLM OUTPUT ===
+
+The reorder point is a critical inventory management metric that indicates when you should reorder stock to avoid running out. It is calculated based on the daily demand and the lead time. The formula for the reorder point is:
+
+\[ \text{Reorder Point} = \text{Daily Demand} \times \text{Lead Time} \]
+
+Given:
+- Daily Demand = 100 units
+- Lead Time = 5 days
+
+Plug these values into the formula:
+
+\[ \text{Reorder Point} = 100 \, \text{units/day} \times 5 \, \text{days} = 500 \, \text{units} \]
+
+Therefore, the reorder point is 500 units. This means you should reorder stock when your inventory level falls to 500 units to ensure you have enough stock to cover the demand during the lead time.

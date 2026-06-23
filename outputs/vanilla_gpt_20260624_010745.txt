@@ -1,0 +1,15 @@
+=== PROMPT ===
+
+
+Based on this list of suppliers, please tell me which one is ISO22000 certified:
+- S01: Alpha Foods (Yes)
+- S02: Beta Foods (No)
+- S03: Gamma Foods (No)
+
+
+
+
+
+=== LLM OUTPUT ===
+
+The supplier that is ISO 22000 certified is S01: Alpha Foods.

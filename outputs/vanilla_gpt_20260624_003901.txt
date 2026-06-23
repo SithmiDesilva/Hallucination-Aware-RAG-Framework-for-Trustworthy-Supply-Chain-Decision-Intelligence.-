@@ -1,0 +1,30 @@
+=== PROMPT ===
+
+
+Safety stock for σ=50, LT=4 days, Z=1.65.
+
+
+
+
+=== LLM OUTPUT ===
+
+To calculate the safety stock, you can use the formula:
+
+\[ \text{Safety Stock} = Z \times \sigma \times \sqrt{\text{LT}} \]
+
+Where:
+- \( Z \) is the Z-score, which represents the desired service level. In this case, \( Z = 1.65 \).
+- \( \sigma \) is the standard deviation of demand, which is given as 50.
+- \( \text{LT} \) is the lead time, which is 4 days.
+
+Plugging in the values:
+
+\[ \text{Safety Stock} = 1.65 \times 50 \times \sqrt{4} \]
+
+\[ \text{Safety Stock} = 1.65 \times 50 \times 2 \]
+
+\[ \text{Safety Stock} = 1.65 \times 100 \]
+
+\[ \text{Safety Stock} = 165 \]
+
+So, the safety stock is 165 units.

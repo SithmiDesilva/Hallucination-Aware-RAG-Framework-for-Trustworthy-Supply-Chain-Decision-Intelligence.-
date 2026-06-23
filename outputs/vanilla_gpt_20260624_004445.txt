@@ -1,0 +1,18 @@
+=== PROMPT ===
+
+
+I have a list of warehouse IDs and their locations:
+- W01: Colombo
+- W02: Kandy
+- W03: Galle
+
+I need to find out where "Batch-0087" is stored. Please look up or determine which of these warehouses contains Batch-0087.
+
+
+
+
+
+
+=== LLM OUTPUT ===
+
+I'm unable to look up real-time data or access external databases to determine where "Batch-0087" is stored. To find out which warehouse contains Batch-0087, you would need to check your inventory management system or contact the personnel responsible for warehouse operations. They should have records of where each batch is stored.

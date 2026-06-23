@@ -1,0 +1,29 @@
+=== PROMPT ===
+
+
+Recommend an alternative supplier to ABC Metals.
+
+
+
+
+
+
+=== LLM OUTPUT ===
+
+To recommend an alternative supplier to ABC Metals, it would be helpful to know more about the specific products or services you are seeking, as well as your location and any particular requirements you have (such as pricing, quality standards, delivery times, etc.). However, here are a few general suggestions for metal suppliers that are known for their wide range of products and services:
+
+1. **Ryerson**: A large metal supplier offering a wide range of metals including aluminum, stainless steel, carbon steel, and more. They have multiple locations across North America.
+
+2. **Thyssenkrupp Materials NA**: Part of the global Thyssenkrupp group, they provide a variety of metal products and services, including supply chain management and custom processing.
+
+3. **Reliance Steel & Aluminum Co.**: One of the largest metal service centers in the world, offering a vast array of metals and processing services.
+
+4. **Kloeckner Metals Corporation**: Offers a wide range of metal products and services, with a strong focus on innovation and technology.
+
+5. **O'Neal Steel**: Provides a comprehensive range of metal products and processing services, with a focus on customer service and quality.
+
+6. **Alro Steel**: Known for their extensive inventory and processing capabilities, they offer metals such as steel, aluminum, and plastics.
+
+7. **Samuel, Son & Co.**: A family-owned business with a broad range of metal products and value-added services.
+
+When selecting a supplier, consider reaching out to them directly to discuss your specific needs and to request quotes. Additionally, checking reviews and testimonials from other customers can provide insights into their reliability and service quality.

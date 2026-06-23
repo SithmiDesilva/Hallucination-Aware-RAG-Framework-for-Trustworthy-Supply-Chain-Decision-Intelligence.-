@@ -1,0 +1,26 @@
+=== PROMPT ===
+
+
+Demand last month was 1200 units. 
+Forecast next month using 15% growth.
+
+
+
+
+=== LLM OUTPUT ===
+
+To forecast the demand for next month with a 15% growth, you can use the following formula:
+
+\[ \text{Forecasted Demand} = \text{Current Demand} \times (1 + \text{Growth Rate}) \]
+
+Given:
+- Current Demand = 1200 units
+- Growth Rate = 15% = 0.15
+
+Plug these values into the formula:
+
+\[ \text{Forecasted Demand} = 1200 \times (1 + 0.15) \]
+\[ \text{Forecasted Demand} = 1200 \times 1.15 \]
+\[ \text{Forecasted Demand} = 1380 \]
+
+So, the forecasted demand for next month is 1380 units.

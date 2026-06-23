@@ -1,0 +1,42 @@
+=== PROMPT ===
+
+
+Calculate EOQ.
+
+Demand = 10000
+Ordering Cost = 50
+Holding Cost = 2
+
+
+=== LLM OUTPUT ===
+
+The Economic Order Quantity (EOQ) is a formula used to determine the optimal order quantity that minimizes the total inventory costs, which include ordering costs and holding costs. The EOQ formula is given by:
+
+\[
+EOQ = \sqrt{\frac{2DS}{H}}
+\]
+
+Where:
+- \( D \) is the annual demand (10,000 units in this case),
+- \( S \) is the ordering cost per order ($50 in this case),
+- \( H \) is the holding cost per unit per year ($2 in this case).
+
+Plugging in the values:
+
+\[
+EOQ = \sqrt{\frac{2 \times 10000 \times 50}{2}}
+\]
+
+\[
+EOQ = \sqrt{\frac{1000000}{2}}
+\]
+
+\[
+EOQ = \sqrt{500000}
+\]
+
+\[
+EOQ \approx 707.11
+\]
+
+Therefore, the Economic Order Quantity (EOQ) is approximately 707 units.

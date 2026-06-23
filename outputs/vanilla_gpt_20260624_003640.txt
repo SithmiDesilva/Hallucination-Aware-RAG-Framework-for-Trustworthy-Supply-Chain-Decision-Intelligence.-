@@ -1,0 +1,21 @@
+=== PROMPT ===
+
+
+Sales Jan=100, Feb=120, Mar=140. What is average demand?
+
+
+
+
+=== LLM OUTPUT ===
+
+To calculate the average demand over the three months, you add the sales for each month and then divide by the number of months. Here's the calculation:
+
+\[
+\text{Average Demand} = \frac{\text{Sales in Jan} + \text{Sales in Feb} + \text{Sales in Mar}}{\text{Number of Months}}
+\]
+
+\[
+\text{Average Demand} = \frac{100 + 120 + 140}{3} = \frac{360}{3} = 120
+\]
+
+So, the average demand over the three months is 120.
