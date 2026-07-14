@@ -1,0 +1,11 @@
+Prompt_ID,evaluation_prompt
+NUM-01,"Demand last month was 1200 units. Forecast next month using 15% growth."
+NUM-02,"Average of 100,120,140"
+NUM-03,"EOQ D=10000,S=50,H=2"
+NUM-04,"ROP=100/day × 5 days"
+NUM-05,"Safety stock calculation"
+NUM-06,"Inventory 1000, demand 150/day for 7 days"
+NUM-07,"Fill rate calculation"
+NUM-08,"Service level 95%, demand SD=40"
+NUM-09,"Rank suppliers by lead times 5,3,7"
+NUM-10,"Total cost = holding + ordering"

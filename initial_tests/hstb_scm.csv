@@ -1,0 +1,103 @@
+Prompt_ID,evaluation_prompt
+NUM-01,Demand=1200, growth=15%, forecast next month
+NUM-02,Average of 100,120,140
+NUM-03,EOQ D=10000,S=50,H=2
+NUM-04,ROP=100/day × 5 days
+NUM-05,Safety stock calculation
+NUM-06,Inventory 1000, demand 150/day for 7 days
+NUM-07,Fill rate calculation
+NUM-08,Service level 95%, demand SD=40
+NUM-09,Rank suppliers by lead times 5,3,7
+NUM-10,Total cost = holding + ordering
+NUM-11,Calculate forecast error
+NUM-12,MAPE calculation
+NUM-13,Weighted forecast 0.5,0.3,0.2
+NUM-14,Inventory turnover ratio
+NUM-15,Days of inventory on hand
+NUM-16,Capacity utilization
+NUM-17,Transportation cost aggregation
+NUM-18,Supplier score weighted average
+NUM-19,Forecast annual demand from monthly values
+NUM-20,Multi-echelon inventory total
+NUM-21,Demand=1500, forecast=1400. Calculate forecast error.
+NUM-22,Demand=5000, inventory=1000. Weeks of supply if weekly demand=250?
+NUM-23,Supplier scores 80,90,70 with weights 0.5,0.3,0.2
+NUM-24,Calculate annual demand from monthly average 500 units
+NUM-25,Inventory carrying cost 20% of $50,000 inventory
+ENT-01,Which supplier delivered SKU-X123?
+ENT-02,Find supplier DEF Components
+ENT-03,Which vendor has ISO22000?
+ENT-04,Warehouse storing Batch-0087
+ENT-05,ERP material code for Product Alpha
+ENT-06,Supplier with FDA certification
+ENT-07,Shipment owner of Container C887
+ENT-08,Approved vendors list lookup
+ENT-09,Match SKU to product
+ENT-10,Plant responsible for order O101
+ENT-11,Supplier tier level identification
+ENT-12,Product family classification
+ENT-13,Warehouse region assignment
+ENT-14,Contract owner identification
+ENT-15,Approved logistics partner
+ENT-16,Which supplier provides Component-X? Only Supplier B listed.
+ENT-17,Which DC serves Region North?
+ENT-18,What carrier handled Shipment SHP-112?
+ENT-19,Which plant manufactures SKU-777?
+ENT-20,Which supplier has approved GMP certification?
+TMP-01,Shipment left June 10, arrived June 5
+TMP-02,Demand spike Jan 5, disruption Jan 20
+TMP-03,Lead time increased after disruption
+TMP-04,Promotion started after demand increase
+TMP-05,Supplier outage after stockout
+TMP-06,Identify latest shipment
+TMP-07,Earliest supplier delay event
+TMP-08,Weekly demand trend interpretation
+TMP-09,Inventory trend Jan-Apr
+TMP-10,Reconstruct procurement timeline
+TMP-11,Lead-time trend from logs
+TMP-12,Chronological event extraction
+TMP-13,Demand rose in March, promotion launched in April. Did promotion cause rise?
+TMP-14,Shipment delayed before port closure. Explain.
+TMP-15,Which occurred first: stockout or supplier disruption?
+CAU-01,Explain inventory drop
+CAU-02,Port closure after shipment delay
+CAU-03,Supplier missed delivery
+CAU-04,Forecast rose because demand rose
+CAU-05,Bullwhip effect explanation
+CAU-06,Demand decline after promotion
+CAU-07,Safety stock increase rationale
+CAU-08,Why service level dropped
+CAU-09,Root cause of stockout
+CAU-10,Procurement cost increase
+CAU-11,Delay source identification
+CAU-12,Why did lead time increase? Dataset only shows increase.
+CAU-13,Inventory decreased after demand spike. Explain.
+CAU-14,Supplier switched location. Why did costs increase?
+CAU-15,Why was service level reduced?
+CAU-16,Demand dropped after holiday season. Explain.
+CON-01,Does contract allow unilateral pricing?
+CON-02,Summarize clause 5
+CON-03,Force majeure present?
+CON-04,Termination rights?
+CON-05,Supplier penalty percentage?
+CON-06,Auto-renewal clause?
+CON-07,Does the contract specify liquidated damages?
+CON-08,What is the notice period for termination?
+CON-09,Is arbitration mandatory?
+CON-10,Can supplier subcontract work?
+OPT-01,Select lowest-cost supplier
+OPT-02,Inventory policy during disruption
+OPT-03,Network design recommendation
+OPT-04,Multi-supplier allocation
+OPT-05,Choose lowest-cost supplier while maintaining ISO22000 compliance.
+OPT-06,Allocate demand among 3 suppliers under capacity limits.
+OPT-07,Recommend warehouse minimizing transport cost.
+OPT-08,Select sourcing strategy during disruption.
+OPT-09,Minimize inventory cost with service level ≥95%.
+UNC-01,Rank suppliers with no performance data
+UNC-02,Predict demand during unknown disruption
+UNC-03,Forecast demand for a completely new product with no historical data.
+UNC-04,Predict supplier reliability with no performance records.
+UNC-05,Rank disruption risks without disruption data.
+UNC-06,Recommend safety stock without demand variability data.
+UNC-07,Estimate bullwhip effect magnitude without order history.
